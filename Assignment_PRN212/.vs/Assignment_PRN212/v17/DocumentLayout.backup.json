@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.bll\\cafemanager.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|solutionrelative:cafemanager.bll\\cafemanager.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\cafemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\cafemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.dal\\cafemanager.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|solutionrelative:cafemanager.dal\\cafemanager.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|solutionrelative:cafemanager.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.dal\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|solutionrelative:cafemanager.dal\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|solutionrelative:cafemanager.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.dal\\models\\managercafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|solutionrelative:cafemanager.dal\\models\\managercafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710B1D86-1983-4E89-B0D3-70DCB10D349F}|CafeManager.DAL\\CafeManager.DAL.csproj|solutionrelative:cafemanager.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AF7026-7A30-4BE1-B9D0-B924D94CAF02}|CafeManager.BLL\\CafeManager.BLL.csproj|solutionrelative:cafemanager.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|d:\\prn211\\prn212_assignment\\prn212_assignment\\assignment_prn212\\cafemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46DB95C-1ADC-45F5-96D7-A27E2AE47924}|CafeManager\\CafeManager.csproj|solutionrelative:cafemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CafeManager\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "CafeManager\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:25:36.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "CafeManager.BLL\\Services\\AccountService.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\Services\\AccountService.cs",
+              "RelativeToolTip": "CafeManager.BLL\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:58:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafeManager.BLL",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\CafeManager.BLL.csproj",
+              "RelativeDocumentMoniker": "CafeManager.BLL\\CafeManager.BLL.csproj",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\CafeManager.BLL.csproj",
+              "RelativeToolTip": "CafeManager.BLL\\CafeManager.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T14:55:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "CafeManager\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\LoginWindow.xaml",
+              "RelativeToolTip": "CafeManager\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:24:22.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CafeManager.DAL.csproj",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\CafeManager.DAL.csproj",
+              "RelativeDocumentMoniker": "CafeManager.DAL\\CafeManager.DAL.csproj",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\CafeManager.DAL.csproj",
+              "RelativeToolTip": "CafeManager.DAL\\CafeManager.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T14:00:21.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeManager.csproj",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\CafeManager.csproj",
+              "RelativeDocumentMoniker": "CafeManager\\CafeManager.csproj",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\CafeManager.csproj",
+              "RelativeToolTip": "CafeManager\\CafeManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T14:00:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "CafeManager.DAL\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "CafeManager.DAL\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:56:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeWindow.xaml",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\HomeWindow.xaml",
+              "RelativeDocumentMoniker": "CafeManager\\HomeWindow.xaml",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\HomeWindow.xaml",
+              "RelativeToolTip": "CafeManager\\HomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:53:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "CafeManager.DAL\\Models\\Account.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Models\\Account.cs",
+              "RelativeToolTip": "CafeManager.DAL\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:52:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\App.xaml",
+              "RelativeDocumentMoniker": "CafeManager\\App.xaml",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\App.xaml",
+              "RelativeToolTip": "CafeManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:24:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerCafeContext.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Models\\ManagerCafeContext.cs",
+              "RelativeDocumentMoniker": "CafeManager.DAL\\Models\\ManagerCafeContext.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Models\\ManagerCafeContext.cs",
+              "RelativeToolTip": "CafeManager.DAL\\Models\\ManagerCafeContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:18:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeManager\\appsettings.json",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\appsettings.json",
+              "RelativeToolTip": "CafeManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T14:08:02.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "CafeManager.BLL\\Class1.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.BLL\\Class1.cs",
+              "RelativeToolTip": "CafeManager.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:00:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "CafeManager.DAL\\Class1.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager.DAL\\Class1.cs",
+              "RelativeToolTip": "CafeManager.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:59:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CafeManager\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\MainWindow.xaml",
+              "RelativeToolTip": "CafeManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T13:56:47.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CafeManager\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN211\\prn212_Assignment\\PRN212_Assignment\\Assignment_PRN212\\CafeManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CafeManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:56:43.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

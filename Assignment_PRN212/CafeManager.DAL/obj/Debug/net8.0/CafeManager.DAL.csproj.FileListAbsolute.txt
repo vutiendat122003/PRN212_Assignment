@@ -1,0 +1,14 @@
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\bin\Debug\net8.0\CafeManager.DAL.deps.json
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\bin\Debug\net8.0\CafeManager.DAL.dll
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\bin\Debug\net8.0\CafeManager.DAL.pdb
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.AssemblyInfoInputs.cache
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.AssemblyInfo.cs
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.csproj.CoreCompileInputs.cache
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.dll
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\refint\CafeManager.DAL.dll
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.pdb
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\ref\CafeManager.DAL.dll
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\bin\Debug\net8.0\CafeManager.DAL.runtimeconfig.json
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.csproj.AssemblyReference.cache
+D:\PRN211\prn212_Assignment\PRN212_Assignment\Assignment_PRN212\CafeManager.DAL\obj\Debug\net8.0\CafeManager.DAL.genruntimeconfig.cache
